@@ -3,8 +3,8 @@
 ### Vaimo
 *Hallituksen puheenjohtaja*
 ### Lapset
-1. Poika
-2. Tyttö
+1. Poika 15v
+2. Tyttö 9v
 ### Karvalapset
 | Laji | Nimi |
 | -------- | -------- |
@@ -17,6 +17,7 @@
 - Omakotitalon remontointi
 - [Insinööri**opinnot**](https://net.centria.fi/koulutukset/insinoori-amk-tieto-ja-viestintatekniikka/)
 - Järvipelastus
+
 ![Heinolan järvipelastajat](https://meripelastus.fi/heinola/wp-content/uploads/sites/11/2024/09/IMG_8463-2048x1365.jpg)
 
 ---
@@ -47,4 +48,4 @@ GROUP BY tab.table_schema, tab.table_name, tab.table_type
 *Apulanta*
 
 ---
-Ja yhteenvetona todettakoon, että mun vahvuus ei ole sisällöntuottaminen, vaan ennemminkin se tekninen puoli asioista :smile:
+Ja yhteenvetona todettakoon, että mun vahvuus ei ole sisällöntuottaminen, vaan ennemminkin se **tekninen** puoli asioista :smile:
